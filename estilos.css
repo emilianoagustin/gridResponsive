@@ -47,6 +47,7 @@ p{
     min-height: 450px;
     color: #fff;
     text-align: center;
+    overflow: hidden;
 }
 
 #showcase .bg-image{
